@@ -551,8 +551,31 @@ HEV_RAD4P fvox/blip blip blip, antidote_shot(e50), onehundred percent
 
 // time
 
-//HEV_C1t fvox/bell time_is_now one AM
-//HEV_C13t fvox/bell time_is_now one PM
+HEV_C1t fvox/bell time_is_now one AM
+HEV_C2t fvox/bell time_is_now two AM
+HEV_C3t fvox/bell time_is_now three AM
+HEV_C4t fvox/bell time_is_now four AM
+HEV_C5t fvox/bell time_is_now five AM
+HEV_C6t fvox/bell time_is_now six AM
+HEV_C7t fvox/bell time_is_now seven AM
+HEV_C8t fvox/bell time_is_now eight AM
+HEV_C9t fvox/bell time_is_now nine AM
+HEV_C10t fvox/bell time_is_now ten AM
+HEV_C11t fvox/bell time_is_now eleven AM
+HEV_C12t fvox/bell time_is_now twelve AM
+HEV_C13t fvox/bell time_is_now one PM
+HEV_C14t fvox/bell time_is_now two PM
+HEV_C15t fvox/bell time_is_now three PM
+HEV_C16t fvox/bell time_is_now four PM
+HEV_C17t fvox/bell time_is_now five PM
+HEV_C18t fvox/bell time_is_now six PM
+HEV_C19t fvox/bell time_is_now seven PM
+HEV_C20t fvox/bell time_is_now eight PM
+HEV_C21t fvox/bell time_is_now nine PM
+HEV_C22t fvox/bell time_is_now ten PM
+HEV_C23t fvox/bell time_is_now eleven PM
+HEV_C24t fvox/bell time_is_now twelve PM
+
 
 // power levels
 
@@ -1332,52 +1355,6 @@ SLV_ALERT2 aslave/(p105) slv_alert4 slv_word4 slv_alert3
 SLV_ALERT3 aslave/(p108) slv_alert1 slv_word5
 SLV_ALERT4 aslave/(p108) slv_word5(p110) slv_word8 slv_word8
 SLV_ALERT5 aslave/(p108) slv_alert4 slv_word7 slv_alert1
-
-//HOLOGRAM
-
-HOLO_3JUMPS holo/tr_holo_3jumps
-HOLO_BREAKBOX holo/tr_holo_breakbox
-HOLO_BREATH holo/tr_holo_breath
-HOLO_BUTTON holo/tr_holo_button
-HOLO_CHARGER holo/tr_holo_charger
-HOLO_COMMENCING holo/tr_holo_commencing
-HOLO_CONGRATS holo/tr_holo_congrats
-HOLO_DONE holo/tr_holo_done
-HOLO_DROWN holo/tr_holo_drown
-HOLO_DUCK holo/tr_holo_duck
-HOLO_FALLSHORT holo/tr_holo_fallshort
-HOLO_FANTASTIC holo/tr_holo_fantastic
-HOLO_FLASHLIGHT holo/tr_holo_flashlight
-HOLO_GREATWORK holo/tr_holo_greatwork
-HOLO_GRENADE holo/tr_holo_grenade
-HOLO_HITALL holo/tr_holo_hitall
-HOLO_INJURY holo/tr_holo_injury
-HOLO_INTRO holo/tr_holo_intro
-HOLO_JDUCK holo/tr_holo_jduck
-HOLO_JUMP holo/tr_holo_jump
-HOLO_JUMPDOWN holo/tr_holo_jumpdown
-HOLO_JUMPGAP holo/tr_holo_jumpgap
-HOLO_KEEPTRYING holo/tr_holo_keeptrying
-HOLO_LADDER holo/tr_holo_ladder
-HOLO_LEADGUARD holo/tr_holo_leadguard
-HOLO_LIGHTOFF holo/tr_holo_lightoff
-HOLO_LONGJUMP holo/tr_holo_longjump
-HOLO_MEDKIT holo/tr_holo_medkit
-HOLO_MOVE holo/tr_holo_move
-HOLO_NICEJOB holo/tr_holo_nicejob
-HOLO_PIPEDUCK holo/tr_holo_pipeduck
-HOLO_PULLBOX holo/tr_holo_pullbox
-HOLO_PUSHBOX holo/tr_holo_pushbox
-HOLO_RADIATION holo/tr_holo_radiation
-HOLO_RETRY holo/tr_holo_retry
-HOLO_RUNSTART holo/tr_holo_runstart
-HOLO_SPINBRIDGE holo/tr_holo_spinbridge
-HOLO_STARTLIFT holo/tr_holo_startlift
-HOLO_STEAM holo/tr_holo_steam
-HOLO_TARGET holo/tr_holo_target
-HOLO_TRYAGAIN holo/tr_holo_tryagain
-HOLO_USETRAIN holo/tr_holo_usetrain
-HOLO_INTERCOM holo/tr_holo_intercom
 
 
 //GMAN

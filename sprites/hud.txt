@@ -57,19 +57,19 @@ amnumber_9		640 health	144	136	16	22
 slash			640 health	160	136	16	22	
 
 airtank_empty 	640 apparatus 0	0 60 60
-airtank_full 	640 apparatus 120 0 60 60
-spring_empty 	640 apparatus 0 60 60 60
-spring_full 	640 apparatus 120 60 60 60
-flash_off 		640 apparatus 0 120 60 60
-flash_on 		640 apparatus 0 180 60 60
-syr_radiation 	640 apparatus 60 0 60 60
-syr_rad_lit 	640 apparatus 180 0 60 60
-syr_antidote 	640 apparatus 60 60 60 60
-syr_ant_lit 	640 apparatus 180 60 60 60
-syr_adrenaline 	640 apparatus 60 120 60 60
-syr_adr_lit 	640 apparatus 60 180 60 60
-flash_off_lit 	640 apparatus 120 120 60 60
-flash_on_lit	640 apparatus 120 180 60 60
+airtank_full 	640 apparatus 0 0 60 60
+spring_empty 	640 apparatus 60 0 60 60
+spring_full 	640 apparatus 60 0 60 60
+flash_off 		640 flashlight 0 0 60 60
+flash_on 		640 flashlight 0 60 60 60
+syr_radiation 	640 syringe 0 0 60 60
+syr_rad_lit 	640 syringe 0 0 60 60
+syr_antidote 	640 syringe 60 0 60 60
+syr_ant_lit 	640 syringe 60 0 60 60
+syr_adrenaline 	640 syringe 120 0 60 60
+syr_adr_lit 	640 syringe 120 0 60 60
+flash_off_lit 	640 flashlight 60 0 60 60
+flash_on_lit	640 flashlight 60 60 60 60
 
 bord			640 health 104 48 32 40
 battery_empty	640 health 0 64 64 24
@@ -94,7 +94,7 @@ d_9mmAR			640	killfeed	192	48	48	16
 d_shotgun		640	killfeed	192	64	48	16
 d_bolt			640	killfeed	192	80	48	16
 d_crossbow		640	killfeed	192	80	48	16
-d_rpg_rocket	640	killfeed	192	96	48	16
+d_rpg_rocket	640	killfeed	192	96	48	16th
 d_gauss			640	killfeed	192	112	32	16
 d_egon			640	killfeed	192	128	32	16
 d_hornet		640	killfeed	192	144	48	16

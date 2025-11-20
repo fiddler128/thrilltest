@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Sun Aug 03 00:57:54 AM
+// File generated:  Tue Nov 18 01:58:22 AM
 //
 //
 // Cvar	-	Setting
@@ -69,9 +69,9 @@ DESCRIPTION INFO_OPTIONS
 
 	"hud_fovadjust"
 	{
-		"Auto FOV adjustment"
+		"Auto FOV adjustment (steam_legacy only)"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"hud_dmgfade"
@@ -79,6 +79,13 @@ DESCRIPTION INFO_OPTIONS
 		"Draw fade effect on damage"
 		{ BOOL }
 		{ "1" }
+	}
+
+	"cl_autoswitch"
+	{
+		"Auto switch to picked up weapon"
+		{ BOOL }
+		{ "0" }
 	}
 
 	"cl_explosions"
@@ -97,7 +104,7 @@ DESCRIPTION INFO_OPTIONS
 	{
 		"Draw shadows"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 }
