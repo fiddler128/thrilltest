@@ -279,7 +279,7 @@ C3A1_4 (p130) buzwarn buzwarn (p98 e95) search and destroy force kilo, central c
 C3A1_5 (p130) buzwarn buzwarn (p98 e95) message for gordon freeman, you will not escape this time
 // "units" line is missing; replaced with "military personnel"
 // C3A1_6 (p130) buzwarn buzwarn (p98 e95) attention all units, renegade freeman is now your primary target	
-C3A1_6 (p130) buzwarn buzwarn (p98 e95) attention all military personnel, renegade freeman is now your primary target	
+C3A1_6 (p130) buzwarn buzwarn (p98 e95) attention all military personnel, renegade freeman is now your primary target
 C3A1_7 (p130) buzwarn buzwarn (p98 e95) alert remaining containment force, freeman may have experimental weapon
 C3A1_8 (p130) buzwarn buzwarn (p98 e95) all personnel evacuate lambda complex, extreme dimensional malfunction detected
 C3A1_9 bizwarn bizwarn fire control team to topside armory, checkpoint delta, topside hydro plant
